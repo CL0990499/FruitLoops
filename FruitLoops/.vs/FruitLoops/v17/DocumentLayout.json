@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\FruitLoops\\FruitLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2941A4EB-3807-45F7-8DDB-8A7E1C61A098}|FruitLoops.vcxproj|C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\FruitLoops\\FruitLoops\\FruitLoops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2941A4EB-3807-45F7-8DDB-8A7E1C61A098}|FruitLoops.vcxproj|solutionrelative:FruitLoops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitLoops.cpp",
+              "DocumentMoniker": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\FruitLoops\\FruitLoops\\FruitLoops.cpp",
+              "RelativeDocumentMoniker": "FruitLoops.cpp",
+              "ToolTip": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\FruitLoops\\FruitLoops\\FruitLoops.cpp",
+              "RelativeToolTip": "FruitLoops.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T00:47:55.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
